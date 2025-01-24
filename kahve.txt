@@ -4,4 +4,6 @@
 4 krema
 5 bu satır hata satırı
 6. vs cod gecildi
-7
+yeni kodlar eklendi
+merhabalar
+9.h02 branchına gecildi
