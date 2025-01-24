@@ -1,4 +1,6 @@
 1 kahve
 2 su
 3 seker
-hatasız kul olmaz
+4 krema
+5 bu satır hata satırı
+
